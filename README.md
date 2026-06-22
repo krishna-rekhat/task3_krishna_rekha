@@ -19,4 +19,4 @@ Analyze an e-commerce dataset using SQL.
 - Order Status Analysis
 
 ## Author
-Krishnarekha Thotta
+Krishnarekha Thota
